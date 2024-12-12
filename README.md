@@ -1,2 +1,2 @@
-# MyWorks
-This repository is a home for all of my work :)
+# Java
+I took a course of Java Fundamentals at SoftServe Academy and as a result, the fianl project was created.
